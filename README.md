@@ -1,4 +1,5 @@
 # Bikesharing
+[link to dashboard](https://public.tableau.com/app/profile/john.harris4551/viz/BikesharingChallenge_16785632932310/CitiBikesharingStory?publish=yes "link to dashboard")
 
 ## Overview
 Project to convince investors that a bike-sharing program would succeed in Des Moines.
